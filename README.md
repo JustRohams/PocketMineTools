@@ -93,4 +93,4 @@ Contributions, bug reports, and feature suggestions are welcome. Please read [CO
 
 ## License
 
-This project is distributed under the MIT License. See [LICENCE](LICENCE) for details.
+This project is distributed under the MIT License. See [LICENCE](LICENCE) for details
