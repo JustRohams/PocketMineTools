@@ -89,7 +89,7 @@ For complete instructions, including Apache, Nginx, shared hosting, and subfolde
 
 ## Contributing
 
-Contributions, bug reports, and feature suggestions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+Contributions, bug reports, and feature suggestions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request
 
 ## License
 
