@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](CHANGELOG.md) [![PHP](https://img.shields.io/badge/PHP-%3E%3D8.0-777BB4.svg)](INSTALL.md#requirements) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENCE)
 
-A modern, bilingual (English and Persian) web toolkit for **PocketMine-MP** plugin developers. Built with PHP, vanilla JavaScript, and CSS—no framework or build step required.
+A modern, bilingual (English and Persian) web toolkit for **PocketMine-MP** plugin developers. Built with PHP, vanilla JavaScript, and CSS—no framework or build step required
 
 ## Contents
 
